@@ -15,6 +15,5 @@ setup(
         license='MIT',
         python_requires='>=2.7',
         packages=['crypto_compare'],
-        classifiers=['Programming Language :: Python :: 2.7'],
-        install_requires=['urllib2', 'pytest']
+        classifiers=['Programming Language :: Python :: 2.7']
     )
